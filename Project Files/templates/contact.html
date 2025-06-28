@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact - Butterfly Classifier</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: url('https://images.unsplash.com/photo-1543872084-c7bd3822856c') no-repeat center center/cover;
+      color: #fff;
+    }
+    nav {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 15px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: 600;
+    }
+    .contact-content {
+      max-width: 700px;
+      margin: 100px auto;
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 40px;
+      border-radius: 12px;
+      text-align: center;
+    }
+    .contact-content a {
+      color: #aadfff;
+      text-decoration: underline;
+    }
+    footer {
+      background-color: rgba(0, 0, 0, 0.8);
+      color: #ccc;
+      text-align: center;
+      padding: 15px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <div><a href="/">Butterfly Classifier</a></div>
+    <div>
+      <a href="/">Home</a>
+      <a href="/input">Classify</a>
+      <a href="/about">About</a>
+      <a href="/contact">Contact</a>
+    </div>
+  </nav>
+
+  <div class="contact-content">
+    <h1>Contact the Developer</h1>
+    <p>I'm always open to feedback, collaboration, and support for this project. Reach out through any of the channels below.</p>
+    <p><strong>Name:</strong> Pradeep Reddy</p>
+    <p><strong>Email:</strong> <a href="shyampradeepreddy321@gmail.com">shyampradeepreddy321@gmail.com</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/pradeepreddy" target="_blank">github.com/pradeepreddy</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/pradeepreddy" target="_blank">linkedin.com/in/pradeepreddy</a></p>
+  </div>
+
+  <footer>
+    &copy; 2025 Butterfly Classifier | Developed by Pradeep Reddy
+  </footer>
+
+</body>
+</html>
