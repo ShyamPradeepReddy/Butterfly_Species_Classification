@@ -17,7 +17,7 @@ A deep learning-based web application that classifies butterfly species from use
 
 ## 📸 Demo
 
-![Demo UI](static/images/demo_screenshot.jpg) <!-- Add a screenshot path or image link -->
+![Demo UI] https://drive.google.com/file/d/1AWsLjOULxeD-Q4pBKNj653s7Uc4IQmoB/view?usp=drive_link <!-- Add a screenshot path or image link -->
 
 ---
 
@@ -106,7 +106,7 @@ Contributions, suggestions, and improvements are welcome! Fork this repo and sub
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed.
 
 ---
 
