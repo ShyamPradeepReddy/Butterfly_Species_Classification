@@ -1,5 +1,5 @@
 
-# 🦋 Butterfly Species Classifier Web App
+# 🦋 Enchanted wings: marvels of butterfly species - Butterfly Species Classifier Web App
 
 A deep learning-based web application that classifies butterfly species from user-uploaded images using a VGG16 Convolutional Neural Network model. Built with Flask, this project demonstrates how AI can be applied to support biodiversity and species identification.
 
