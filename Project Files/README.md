@@ -93,7 +93,7 @@ gunicorn==20.1.0
 
 ## 🙌 Contributing
 
-Contributions, suggestions, and improvements are welcome! Fork this repo and submit a pull request.
+Contributions, suggestions, and improvements are welcome! Fork this repo and submit a pull request
 
 ---
 
@@ -106,7 +106,7 @@ Contributions, suggestions, and improvements are welcome! Fork this repo and sub
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed.
 
 ---
 
